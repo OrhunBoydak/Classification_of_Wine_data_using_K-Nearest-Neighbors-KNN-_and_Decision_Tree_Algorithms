@@ -1,4 +1,4 @@
-# Classification of Wine Dataset using K-Nearest Neighbors (KNN) and Decision Tree Algorithms
+# Classification of Wine Dataset using KNN and Decision Tree Algorithms
 
 This project demonstrates the application of two classification algorithms—K-Nearest Neighbors (KNN) and Decision Tree—on the Wine dataset. The goal is to compare the performance of these algorithms in classifying different types of wine based on their chemical properties.
 
